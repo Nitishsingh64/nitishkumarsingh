@@ -1,7 +1,4 @@
 
-/*===========================
-      COMMON css 
-===========================*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800");
 body {
   font-family: "Poppins", sans-serif;
@@ -76,7 +73,6 @@ p {
   width: 100%;
   height: 100%; }
 
-/*===== All Button Style =====*/
 .main-btn {
   display: inline-block;
   font-weight: 500;
@@ -96,8 +92,6 @@ p {
   
   text-transform: uppercase; }
   
-
-/*===== All Section Title Style =====*/
 .section-title .title {
   font-weight: 700;
   font-size: 45px;
@@ -108,10 +102,6 @@ p {
     .section-title .title {
       font-size: 30px; } }
 
-
-/*===========================
-    HEADER css 
-===========================*/
 .navigation {
 
   padding: 30px 0;
@@ -167,10 +157,6 @@ p {
           height: 45px; }
 
 
-
-/*===========================
-        TARGETS css 
-===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .services-area {
     padding-top: 90px;
@@ -201,9 +187,7 @@ p {
       color: #32333c;
       margin-bottom: 20px;
  }
-/*===========================
-       CONTACT css 
-===========================*/
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .contact-area {
     padding-top: 90px;
@@ -238,9 +222,6 @@ p {
       font-weight: 600;
       padding-bottom: 15px; }
 
-/*===========================
-       FOOTER css 
-===========================*/
 .footer-widget {
   background-color: #152136; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
