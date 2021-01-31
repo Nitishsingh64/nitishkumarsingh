@@ -730,9 +730,10 @@ p.form-message.success, p.form-message.error {
         -o-transform: translateY(-50%);
         transform: translateY(-50%); }
 
-/*==========================
+/*===========================
+   SINGLE BLOG PAGE css 
 ===========================*/
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+/*@media only screen and (min-width: 768px) and (max-width: 991px) {
   .single-blog-page {
     padding-top: 70px;
     padding-bottom: 100px; } }
@@ -1016,6 +1017,6 @@ p.form-message.success, p.form-message.error {
       top: 0;
       right: 0;
       line-height: 54px;
-      cursor: pointer; }
+      cursor: pointer; } */
 
 
