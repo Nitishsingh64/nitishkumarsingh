@@ -1,6 +1,6 @@
 
 /*===========================
-    1. COMMON css 
+      COMMON css 
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800");
 body {
@@ -110,7 +110,7 @@ p {
 
 
 /*===========================
-    2.HEADER css 
+    HEADER css 
 ===========================*/
 .navigation {
 
@@ -321,7 +321,7 @@ p {
     z-index: 5; }
 
 /*===========================
-        3.ABOUT css 
+        ABOUT css 
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .about-area {
@@ -401,7 +401,7 @@ p {
       width: 0; }
 
 /*===========================
-        4.SERVICES css 
+        TARGETS css 
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .services-area {
@@ -436,7 +436,7 @@ p {
 
 
 /*===========================
-    4.CALL TO ACTION css 
+    CALL TO ACTION css 
 ===========================*/
 .call-to-action {
   position: relative;
@@ -497,7 +497,7 @@ p {
         border-color: #fff; }
 
 /*===========================
-        5.WORK css 
+        HOBBIES css 
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .work-area {
@@ -538,7 +538,7 @@ p {
         opacity: 0; }
       
 /*===========================
-       8.CONTACT css 
+       CONTACT css 
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .contact-area {
@@ -624,7 +624,7 @@ p.form-message.success, p.form-message.error {
   box-shadow: 0px 0px 12px 0px rgba(152, 152, 152, 0.46); }
 
 /*===========================
-       9.FOOTER css 
+       FOOTER css 
 ===========================*/
 .footer-widget {
   background-color: #152136; }
@@ -671,7 +671,7 @@ p.form-message.success, p.form-message.error {
 
 
 /*===========================
-      10.PAGE BANNER css 
+      PAGE BANNER css 
 ===========================*/
 .page-banner {
   margin-top: 95px;
@@ -730,8 +730,7 @@ p.form-message.success, p.form-message.error {
         -o-transform: translateY(-50%);
         transform: translateY(-50%); }
 
-/*===========================
-   10.SINGLE BLOG PAGE css 
+/*==========================
 ===========================*/
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .single-blog-page {
